@@ -1,0 +1,11 @@
+Model Information:
+* title:	PS1 Pidgeon
+* source:	https://sketchfab.com/3d-models/ps1-pidgeon-dc0a61fe4fc74307b965ea65e460de1d
+* author:	ketchup_money80 (https://sketchfab.com/ketchup_money80)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "PS1 Pidgeon" (https://sketchfab.com/3d-models/ps1-pidgeon-dc0a61fe4fc74307b965ea65e460de1d) by ketchup_money80 (https://sketchfab.com/ketchup_money80) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
